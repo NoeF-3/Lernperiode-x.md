@@ -11,6 +11,7 @@ Ich habe noch keine Noten. Momentan läufen alle Module ziemlich gut, 319 wahrsc
 Ich möchte verglichen zu letzter Woche konzentrierter werden
 
 ### Projekte / neue Technologien
+Ich habe noch keine Projekte oder Technologien. Aber Programmieren ist interessant und auch amüsant zum lernen.
  
 ### Generelle Ziele
 Ich möchte selbstständig sein und Module gut durcharbeiten.
