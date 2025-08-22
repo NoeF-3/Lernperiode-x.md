@@ -23,7 +23,7 @@ Reflexion: Im Insgesammten war ich nicht schlecht dran. Ich folgte dem Modul und
 
 - [x] Modul weiterführen und mögliche Aufgaben beenden
 - [x] Selbstreflexion ausfüllen
-- [x] Pause machen, wenn ich eine Pause benötige
+- [x] Ein C# Projekt machen, bei dem einem die Kosten für einen Hotelbesuch angezeigt wird
 
 Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Danach habe ich an eigenen Zielen gearbeitet. Es ging besser als letztes Mal.
 
@@ -31,7 +31,7 @@ Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Dan
 
 - [ ] Modul weiterführen
 - [ ] An Selbstreflexion denken und sie ausfüllen
-- [ ] Produktive Selbstzielarbeit 
+- [ ] Das Projekt von letzem mal mit mehr features weiterführen
 
 ## Lernperiode Reflexion
 
