@@ -17,9 +17,7 @@ Ich kenne bisher so gut wie gar keine Projekte oder Technologien. Aber momentan 
 Ich möchte selbstständig sein und Module gut durcharbeiten.
 
 ## 22.08.2025
-
-## 16.08.2024
-Reflexion: 
+Reflexion:
 
 ## Planung 29.08.2o25
 
