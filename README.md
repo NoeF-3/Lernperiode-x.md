@@ -11,21 +11,20 @@ Ich habe noch keine Noten. Momentan läufen alle Module ziemlich gut, 319 wahrsc
 Ich möchte verglichen zu letzter Woche konzentrierter werden
 
 ### Projekte / neue Technologien
-Ich kenne bisher so gut wie gar keine Projekte oder Technologien. Aber momentan ist das lernen von Programmieren sehr spannend.
-
+ 
 ### Generelle Ziele
 Ich möchte selbstständig sein und Module gut durcharbeiten.
 
-## 22.08.2025
-Reflexion:
+## 15.08.2025
+Reflexion: Im Insgesammten war ich nicht schlecht dran. Ich folgte dem Modul und beendete es auch. Jedoch war meine Konzentration nicht fantastisch, als ich fertig war. Die egene Zielarbeit lief nicht super. Ich arbeitete ein bisschen langsam.
 
-## Planung 29.08.2025
+## Planung 22.08.2025
 
 - [ ] Modul weiterführen
 - [ ] An Selbstreflexion denken und sie ausfüllen
 - [ ] Pause machen, wenn ich eine Pause benötige.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Danach habe ich an eigenen Zielen gearbeitet. Es ging besser als letztes Mal.
 
 ## Lernperiode Reflexion
 
