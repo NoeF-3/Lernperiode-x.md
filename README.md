@@ -19,7 +19,7 @@ Ich möchte selbstständig sein und Module gut durcharbeiten.
 ## 22.08.2025
 Reflexion:
 
-## Planung 29.08.2o25
+## Planung 29.08.2025
 
 - [ ] Modul weiterführen
 - [ ] An Selbstreflexion denken und sie ausfüllen
