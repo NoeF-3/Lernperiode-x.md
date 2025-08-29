@@ -33,6 +33,7 @@ Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Dan
 
 - [ ] An Selbstreflexion denken und sie ausfüllen
 - [ ] Das Projekt von letzem mal mit mehr features weiterführen
+- [ ] Code aufbessern (Es gibt noch eine Unannehmlichkeit)
 
 ## Lernperiode Reflexion
 
