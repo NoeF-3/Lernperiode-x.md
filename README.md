@@ -31,10 +31,21 @@ Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Dan
 
 ## Planung 29.08.2025
 
-- [ ] An Selbstreflexion denken und sie ausfüllen
-- [ ] Das Projekt von letzem mal mit mehr features weiterführen
-- [ ] Code aufbessern (Es gibt noch eine Unannehmlichkeit)
+- [x] An Selbstreflexion denken und sie ausfüllen
+- [x] Das Projekt von letzem mal mit mehr features weiterführen
+- [x] Code aufbessern (Es gibt noch eine Unannehmlichkeit)
 
+## Lernperiode Reflexion
+
+Ich konnte den Code besser machen und hab dazu ganz viel hizugefügt: Du kriegst Rollen mit verschiedenen Anteil von Geld, es gibt mehrere szenarien, etc. 
+Ich konnte mich heute ziemlich gut konzentrieren.
+
+## Planung 36.08.2025
+
+- [ ] Die "Geschichte weiterführen
+- [ ] Verkürzungen des Codes für Übersichtlichekit
+- [ ] Bessere Lösung bei Nächte-Auswahl
+- [ ] 
 ## Lernperiode Reflexion
 
 
