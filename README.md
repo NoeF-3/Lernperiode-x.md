@@ -25,11 +25,12 @@ Reflexion: Im Insgesammten war ich nicht schlecht dran. Ich folgte dem Modul und
 - [x] Selbstreflexion ausfüllen
 - [x] Ein C# Projekt machen, bei dem einem die Kosten für einen Hotelbesuch angezeigt wird
 
+## Lernperiode Reflexion
+
 Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Danach habe ich an eigenen Zielen gearbeitet. Es ging besser als letztes Mal.
 
 ## Planung 29.08.2025
 
-- [ ] Modul weiterführen
 - [ ] An Selbstreflexion denken und sie ausfüllen
 - [ ] Das Projekt von letzem mal mit mehr features weiterführen
 
