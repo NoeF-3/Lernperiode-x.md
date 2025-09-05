@@ -14,7 +14,7 @@ Ich möchte verglichen zu letzter Woche konzentrierter werden
 Ich habe noch keine Projekte oder Technologien. Aber Programmieren ist interessant und auch amüsant zum lernen.
  
 ### Generelle Ziele
-Ich möchte selbstständig sein und Module gut durcharbeiten.
+Ich möchte selbstständig sein und Module gut durcharbeiten und im Lernatelier eigene Ziele konsequent verfolgen.
 
 ## 15.08.2025
 Reflexion: Im Insgesammten war ich nicht schlecht dran. Ich folgte dem Modul und beendete es auch. Jedoch war meine Konzentration nicht fantastisch, als ich fertig war. Die egene Zielarbeit lief nicht super. Ich arbeitete ein bisschen langsam.
