@@ -42,7 +42,7 @@ Ich konnte mich heute ziemlich gut konzentrieren.
 
 ## Planung 36.08.2025
 
-- [ ] Die "Geschichte weiterführen
+- [ ] Die "Geschichte" weiterführen
 - [ ] Verkürzungen des Codes für Übersichtlichekit
 - [ ] Bessere Lösung bei Nächte-Auswahl
 
