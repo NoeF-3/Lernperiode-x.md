@@ -46,6 +46,8 @@ Ich konnte mich heute ziemlich gut konzentrieren.
 - [ ] Verkürzungen des Codes für Übersichtlichekit
 - [ ] Bessere Lösung bei Nächte-Auswahl
 
+## Lerngespräch 
+
 ## Lernperiode Reflexion
 
 
