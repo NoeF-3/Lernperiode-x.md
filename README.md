@@ -40,13 +40,26 @@ Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Dan
 Ich konnte den Code besser machen und hab dazu ganz viel hizugefügt: Du kriegst Rollen mit verschiedenen Anteil von Geld, es gibt mehrere szenarien, etc. 
 Ich konnte mich heute ziemlich gut konzentrieren - Das Hotelprojekt wird eine Geschichte mit Alternationen.
 
-## Planung 36.08.2025
+## Planung 05.09.2025
 
-- [ ] Die "Geschichte" weiterführen
+- [x] Die "Geschichte" weiterführen
 - [ ] Verkürzungen des Codes für Übersichtlichekit
-- [ ] Bessere Lösung bei Nächte-Auswahl
+- [x] Bessere Lösung bei Nächte-Auswahl
 
 ## Lerngespräch 
+
+Mir wurde die switch und functions gezeigt
+
+## Lernperiode Reflexion
+
+Ich habe die Nächte auf drei maximiert und sie so angepasst, dass bestimmte Gäste nur die bestimmten Angebote kriegen. Ich konnte den code noch nicht stark verkürzen. Die Arbeit ging heute ganz dezent.
+
+## Planung 12.09.2025
+
+- [ ] Die Rolle des Businessman vielfältiger machen (mehr Möglichkeiten)
+- [ ] Verkürzungen des Codes für Übersichtlichekit
+- [ ] Die Geschichte für alle Rollem zusammenführen und weiterschreiben (Alle Enden mit dem gleichen Szenario, nachdem das individuelle beendet ist)
+- [ ] Übriges Kapital soll eine Auswirkung auf die folgenden Situationen haben
 
 ## Lernperiode Reflexion
 
