@@ -45,7 +45,7 @@ Ich konnte mich heute ziemlich gut konzentrieren.
 - [ ] Die "Geschichte weiterführen
 - [ ] Verkürzungen des Codes für Übersichtlichekit
 - [ ] Bessere Lösung bei Nächte-Auswahl
-- [ ] 
+
 ## Lernperiode Reflexion
 
 
