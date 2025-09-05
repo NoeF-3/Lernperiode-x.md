@@ -38,7 +38,7 @@ Heute habe ich "100 - Übungs LP" und "160 - LA neue Lernperiode" vollendet. Dan
 ## Lernperiode Reflexion
 
 Ich konnte den Code besser machen und hab dazu ganz viel hizugefügt: Du kriegst Rollen mit verschiedenen Anteil von Geld, es gibt mehrere szenarien, etc. 
-Ich konnte mich heute ziemlich gut konzentrieren.
+Ich konnte mich heute ziemlich gut konzentrieren - Das Hotelprojekt wird eine Geschichte mit Alternationen.
 
 ## Planung 36.08.2025
 
