@@ -56,11 +56,20 @@ Ich habe die Nächte auf drei maximiert und sie so angepasst, dass bestimmte Gä
 
 ## Planung 12.09.2025
 
-- [ ] Die Rolle des Businessman vielfältiger machen (mehr Möglichkeiten)
-- [ ] Die Geschichte für alle Rollem zusammenführen und weiterschreiben (Alle Enden mit dem gleichen Szenario, nachdem das individuelle beendet ist)
-- [ ] Übriges Kapital soll eine Auswirkung auf die folgenden Situationen haben
+- [x] Die Rolle des Businessman vielfältiger machen (mehr Möglichkeiten)
+- [x] Die Geschichte für alle Rollem zusammenführen und weiterschreiben (Alle Enden mit dem gleichen Szenario, nachdem das individuelle beendet ist)
+- [x] Übriges Kapital soll eine Auswirkung auf die folgenden Situationen haben
 
 ## Lernperiode Reflexion
+Ich habe meine Ziele erreicht. Ich denke, es lief ziemlich gut.
 
+
+## Planung 19.09.2025
+
+- [ ] Rollen im laufe der geschichte wieder bisschen spalten/individueller machem
+- [ ] Auf die begegnung mit den Personen zurückkommen
+- [ ] Möglichkeit, Kapital zu erhöhen
+
+## Lernperiode Reflexion
 
 
