@@ -57,7 +57,6 @@ Ich habe die Nächte auf drei maximiert und sie so angepasst, dass bestimmte Gä
 ## Planung 12.09.2025
 
 - [ ] Die Rolle des Businessman vielfältiger machen (mehr Möglichkeiten)
-- [ ] Verkürzungen des Codes für Übersichtlichekit
 - [ ] Die Geschichte für alle Rollem zusammenführen und weiterschreiben (Alle Enden mit dem gleichen Szenario, nachdem das individuelle beendet ist)
 - [ ] Übriges Kapital soll eine Auswirkung auf die folgenden Situationen haben
 
