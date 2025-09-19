@@ -67,11 +67,12 @@ Ich habe meine Ziele erreicht. Ich denke, es lief ziemlich gut.
 
 ## Planung 19.09.2025
 
-- [ ] Rollen im laufe der geschichte wieder bisschen spalten/individueller machem
+- [x] Rollen im laufe der geschichte wieder bisschen spalten/individueller machem
 - [ ] Auf die begegnung mit den Personen zurückkommen
-- [ ] Möglichkeit, Kapital zu erhöhen
+- [x] Möglichkeit, Kapital zu erhöhen
 
 ## Tagesreflexion
+Ich konnte alle Ziele mehr oder weniger angehen, jedoch wurde das zweite nicht erreicht, weil ich mich auf andere Aspekte mehr konzentrierte und noch nicht dazu kam.
 
 # Lernperiode Reflexion
 
