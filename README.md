@@ -74,6 +74,10 @@ Ich habe meine Ziele erreicht. Ich denke, es lief ziemlich gut.
 ## Tagesreflexion
 Ich konnte alle Ziele mehr oder weniger angehen, jedoch wurde das zweite nicht erreicht, weil ich mich auf andere Aspekte mehr konzentrierte und noch nicht dazu kam.
 
-# Lernperiode Reflexion
+## Lernperiode Reflexion
+
+- Ich konnte die Ziele ziemlich gut erfüllen und Dinge, die ich mir vornahm, erledigen
+- Ich hatte bei einigen Codestellen probleme und hab dann mit google oder ai Lösungen ermittelt und die Problemursache erkannt
+- Ich muss mir merken, dass man "Console.ReadLine" nicht zweimal untereinander schreiben kann
 
 
